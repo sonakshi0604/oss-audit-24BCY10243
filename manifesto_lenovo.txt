@@ -1,0 +1,13 @@
+----------------------------------------
+   Open Source Manifesto
+----------------------------------------
+Date: 30 March 2026
+Author: lenovo
+
+I believe in the power of open source and collective innovation.
+Every day, I rely on tools like git, which represent collaboration and shared knowledge.
+To me, freedom means choice — the ability to learn, modify, and improve without restriction.
+In the future, I aspire to build a student toolkit and share it freely with the world,
+so that others can learn, adapt, and grow from it just as I have.
+
+I stand for openness, transparency, and community-driven development.
